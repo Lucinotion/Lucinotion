@@ -20,7 +20,7 @@
 
 ---
 
-<img style="width: 400px;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true" />
+<img style="width: 350px;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true" />
 
 <img style="display:inline;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucinotion&layout=compact" />
 
