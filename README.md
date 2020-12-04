@@ -7,7 +7,7 @@
 * 🧽 I keep my code clean and easy to understand.
 * 🐧 Linux is my preferred environment.
 
->### Contact me 💬
+>### Contact me 💬:
 > [Mail](mailto:lucinotion@pm.me) |
 > [LinkedIn](https://www.linkedin.com/in/luciano-candal-61b37017b)
 >>#### Check me at social media:
@@ -22,15 +22,13 @@
 
 <img style="display:box; //margin:0 100%;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true" />
 
-<!--
 <img style="display:inline;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucinotion&layout=compact" />
--->
 
 ---
 
-## About me
+## About me 💭
 
-### Education
+### Education 📝
 
 #### ESNE Madrid University of Design, Innovation & Technology
 > *2019-2020*  
@@ -45,7 +43,7 @@
 > *2014-2016*  
 > **~Bachelor's degree in Science and Technology**
 
-### Skills
+### Skills 👨‍💻
 
 #### I speak
 
@@ -53,13 +51,15 @@
 > **Spanish** (Native)  
 > **Galician** (Native)
 
-#### Programming
+#### Programming 
 
-> #### Languages
-> **C, C++, C#, Java, Javascript, Bash**
->> #### Markup / others
->> HTML, CSS, JSON, XML, SQL
-> #### Libraries
+> **Languages**  
+> **C, C++, C#, Java, Javascript, Bash**  
+>
+> **Markup / others**  
+> HTML, CSS, JSON, XML, SQL  
+>
+> **Libraries**  
 > SFML, SDL2, Box2D, OpenGL, JQuery
 
 #### Software
