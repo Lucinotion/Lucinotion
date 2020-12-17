@@ -20,7 +20,7 @@
 
 ---
 
-<img style="width: 350px;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true" />
+<img style="width: 350px;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true&theme=dark" />
 
 ---
 
@@ -64,7 +64,9 @@
 
 > **Adobe Suite** (Photoshop, Illustrator and Premiere)  
 > **Visual Studio** & Visual Studio Code  
+> **Vim**  
 > **Unity**  
+> **Unreal**  
 > **3dsMax**  
 > **Magica Voxel**  
 
