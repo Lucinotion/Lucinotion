@@ -16,7 +16,6 @@
 >> [Artstation](https://www.artstation.com/lucinotion) |
 >> [Sketchfab](https://sketchfab.com/Lucinotion) |
 >> [Twitch](https://www.twitch.tv/lucinotion) |
->> [Youtube](www.youtube.com/channel/UC2uS5lrFONH93pkqpcfhC-w)
 
 ---
 
