@@ -1,4 +1,4 @@
-# Howdy, I'm Luciano but you can call me Lucio 😄
+# Howdy, I'm Luciano but you can call me Lucio, or Luci 😄
 
 **I develop games, webpages, and some CLI tools too!**
 
