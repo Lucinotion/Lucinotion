@@ -19,10 +19,6 @@
 
 ---
 
-<img style="width: 350px;" alt="Lucinotion Stats" src="https://github-readme-stats.vercel.app/api?username=lucinotion&show_icons=true&theme=dark" />
-
----
-
 ## About me 💭
 
 ### Education 📝
