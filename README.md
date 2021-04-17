@@ -24,7 +24,7 @@
 ### Education
 
 #### ESNE Madrid University of Design, Innovation & Technology
-> *2019-2020*  
+> *2016-2020*  
 > **~Degree in Videogame Design and Development**
 
 #### ESNE Asturias University of Design, Innovation & Technology
