@@ -1,6 +1,6 @@
-# Howdy, I'm Luciano but you can call me Lucio, or Luci 😄
+# Howdy, I'm Luciano but you can call me Lucio, or Luci
 
-**I develop games, webpages, and some CLI tools too!**
+**I develop games, webpages, and some CLI tools**
 
 * 🎮 I have a degree in videogame development and design.
 * 💻 I develop fronted websites and backend aplications.
@@ -15,13 +15,13 @@
 >> [Reddit](https://www.reddit.com/user/Lucinotion) |
 >> [Artstation](https://www.artstation.com/lucinotion) |
 >> [Sketchfab](https://sketchfab.com/Lucinotion) |
->> [Twitch](https://www.twitch.tv/lucinotion) |
+>> [Twitch](https://www.twitch.tv/lucinotion)
 
 ---
 
-## About me 💭
+## About me
 
-### Education 📝
+### Education
 
 #### ESNE Madrid University of Design, Innovation & Technology
 > *2019-2020*  
@@ -36,7 +36,7 @@
 > *2014-2016*  
 > **~Bachelor's degree in Science and Technology**
 
-### Skills 👨‍💻
+### Skills
 
 #### I speak
 
