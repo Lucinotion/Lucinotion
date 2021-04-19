@@ -4,10 +4,10 @@
 
 * 🎮 I have a degree in videogame development and design.
 * 💻 I develop fronted websites and backend aplications.
-* 🧽 I keep my code clean and easy to understand.
-* 🐧 Linux is my preferred environment.
+* 🧽 I (try my best to) keep my code clean and easy to understand.
+* 🐧 Linux is my preferred development environment.
 
->### Contact me 💬:
+>### Contact me
 > [Mail](mailto:lucinotion@pm.me) |
 > [LinkedIn](https://www.linkedin.com/in/luciano-candal-61b37017b)
 >>#### Check me at social media:
@@ -40,14 +40,14 @@
 
 #### I speak
 
-> **English** (C1, I refuse to take the exam for moral reasons, if you question my English level just have a conversarion with me)  
+> **English** (C1)  
 > **Spanish** (Native)  
 > **Galician** (Native)
 
 #### Programming 
 
 > **Languages**  
-> **C, C++, C#, Java, Javascript, Bash**  
+> **C, C++, C#, Java, Javascript, a bit of Bash**  
 >
 > **Markup / others**  
 > HTML, CSS, JSON, XML, SQL  
